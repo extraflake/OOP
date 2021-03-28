@@ -1,0 +1,7 @@
+E:\Project\OOP\OOP\bin\Debug\OOP.exe.config
+E:\Project\OOP\OOP\bin\Debug\OOP.exe
+E:\Project\OOP\OOP\bin\Debug\OOP.pdb
+E:\Project\OOP\OOP\obj\Debug\OOP.csprojAssemblyReference.cache
+E:\Project\OOP\OOP\obj\Debug\OOP.csproj.CoreCompileInputs.cache
+E:\Project\OOP\OOP\obj\Debug\OOP.exe
+E:\Project\OOP\OOP\obj\Debug\OOP.pdb
